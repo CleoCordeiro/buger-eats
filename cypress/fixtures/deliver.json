@@ -1,0 +1,50 @@
+{
+    "validUser": {
+        "name": "Klarna",
+        "cpf": "12345678901",
+        "email": "Klarna@teste.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "68742000",
+            "street": "Avenida Barão do Rio Branco",
+            "number": "123",
+            "details": "teste",
+            "district": "Nova Olinda",
+            "city_state": "Castanhal/PA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "invalidCpf": {
+        "name": "Tamires",
+        "cpf": "12345",
+        "email": "Tamires@teste.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "68742000",
+            "street": "Avenida Barão do Rio Branco",
+            "number": "123",
+            "details": "teste",
+            "district": "Nova Olinda",
+            "city_state": "Castanhal/PA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "invalidEmail": {
+        "name": "Tamires",
+        "cpf": "12345678901",
+        "email": "Tamires",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "68742000",
+            "street": "Avenida Barão do Rio Branco",
+            "number": "123",
+            "details": "teste",
+            "district": "Nova Olinda",
+            "city_state": "Castanhal/PA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
